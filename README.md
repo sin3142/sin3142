@@ -16,3 +16,7 @@ public class Hello {
     }
 }
 ```
+
+```javascript
+console.log("hello, world")
+```
