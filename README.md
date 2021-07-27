@@ -2,6 +2,10 @@
 print("hello, world")
 ```
 
+```lua
+print("hello, world")
+```
+
 ```c
 #include <stdio.h>
 int main() {
