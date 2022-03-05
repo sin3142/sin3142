@@ -1,28 +1,28 @@
 ```python
-print("hello, world")
+print("hello, world!")
 ```
 
 ```lua
-print("hello, world")
+print("hello, world!")
 ```
 
 ```c
 #include <stdio.h>
 int main() {
-    printf("hello, world\n");
+    printf("hello, world!\n");
 }
 ```
 
 ```java
 public class Hello {
     public static void main(String args[]) {
-        System.out.println("hello, world");
+        System.out.println("hello, world!");
     }
 }
 ```
 
 ```javascript
-console.log("hello, world")
+console.log("hello, world!")
 ```
 
 ```javascript
